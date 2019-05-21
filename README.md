@@ -1,2 +1,2 @@
 # x_SGDC
-NPM Repo.
+Ruby Repo.
